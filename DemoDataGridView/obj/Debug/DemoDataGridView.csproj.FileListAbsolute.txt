@@ -71,3 +71,30 @@ C:\Study\STEP\Session 2\WindowForm\DemoDataGridView\DemoDataGridView\obj\Debug\D
 C:\Study\STEP\Session 2\WindowForm\DemoDataGridView\DemoDataGridView\obj\Debug\DemoDataGridView.exe
 C:\Study\STEP\Session 2\WindowForm\DemoDataGridView\DemoDataGridView\obj\Debug\DemoDataGridView.pdb
 C:\Study\STEP\Session 2\WindowForm\DemoDataGridView\DemoDataGridView\bin\Debug\DemoDataGridView.pdb
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\DemoDataGridView.exe.config
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\DemoDataGridView.exe
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\DemoDataGridView.pdb
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.Form1.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmCategory.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmCategoryView.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmPOS.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmProduct.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmProductView.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmSaleView.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.frmSplash.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.IOManager.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.Model.frmLogin.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.exe
+C:\Users\USER\Documents\GitHub\Demo-POS\DemoDataGridView\obj\Debug\DemoDataGridView.pdb
